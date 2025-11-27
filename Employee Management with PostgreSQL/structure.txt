@@ -1,0 +1,25 @@
+employee_app/
+├── config.py
+├── requirements.txt
+├── README.md
+├── run.py
+├── logs/
+│ └── app.log
+├── migrations/ # (optional - Alembic)
+├── app/
+│ ├── __init__.py
+│ ├── models.py
+│ ├── database.py
+│ ├── services.py
+│ ├── routes.py
+│ ├── templates/
+│ │ ├── base.html
+│ │ ├── index.html
+│ │ ├── list_employees.html
+│ │ ├── add_employee.html
+│ │ └── edit_employee.html
+│ └── static/
+│ └── css/
+│ └── styles.css
+└── tests/
+└── test_app.py

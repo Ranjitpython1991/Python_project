@@ -1,0 +1,10 @@
+Flask>=2.0
+Flask-SQLAlchemy>=3.0
+psycopg2-binary>=2.9
+pydantic>=1.10
+pytest>=7.0
+pytest-mock
+python-dotenv
+click
+Flask-Login>=0.6
+werkzeug>=2.0

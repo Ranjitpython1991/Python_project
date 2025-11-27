@@ -1,0 +1,45 @@
+2025-11-27 15:56:26,774 - INFO - Flask application started
+2025-11-27 15:56:26,789 - INFO - Creating employee table if not exists...
+2025-11-27 15:56:26,789 - DEBUG - Connecting to PostgreSQL...
+2025-11-27 15:56:26,991 - DEBUG - Connection successful.
+2025-11-27 15:56:27,007 - INFO - Table created or already exists.
+2025-11-27 15:56:27,008 - DEBUG - Database connection closed after table creation.
+2025-11-27 15:56:27,131 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-27 15:56:28,132 - INFO - Flask application started
+2025-11-27 15:56:28,146 - INFO - Creating employee table if not exists...
+2025-11-27 15:56:28,147 - DEBUG - Connecting to PostgreSQL...
+2025-11-27 15:56:28,262 - DEBUG - Connection successful.
+2025-11-27 15:56:28,265 - INFO - Table created or already exists.
+2025-11-27 15:56:28,265 - DEBUG - Database connection closed after table creation.
+2025-11-27 15:56:28,301 - WARNING -  * Debugger is active!
+2025-11-27 15:56:28,346 - INFO -  * Debugger PIN: 654-024-026
+2025-11-27 15:56:28,591 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2025-11-27 15:56:39,722 - INFO - 127.0.0.1 - - [27/Nov/2025 15:56:39] "GET / HTTP/1.1" 200 -
+2025-11-27 15:56:40,266 - DEBUG - GET /employees invoked
+2025-11-27 15:56:40,266 - INFO - Fetching all employees...
+2025-11-27 15:56:40,266 - DEBUG - Connecting to PostgreSQL...
+2025-11-27 15:56:40,394 - INFO - 127.0.0.1 - - [27/Nov/2025 15:56:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-27 15:56:40,561 - DEBUG - Connection successful.
+2025-11-27 15:56:40,590 - DEBUG - Total employees fetched: 7
+2025-11-27 15:56:40,590 - DEBUG - Connection closed after get_all.
+2025-11-27 15:56:40,590 - INFO - 7 employees returned
+2025-11-27 15:56:40,596 - INFO - 127.0.0.1 - - [27/Nov/2025 15:56:40] "GET /employees HTTP/1.1" 200 -
+2025-11-27 15:56:43,263 - DEBUG - GET /employees invoked
+2025-11-27 15:56:43,264 - INFO - Fetching all employees...
+2025-11-27 15:56:43,264 - DEBUG - Connecting to PostgreSQL...
+2025-11-27 15:56:43,355 - DEBUG - Connection successful.
+2025-11-27 15:56:43,358 - DEBUG - Total employees fetched: 7
+2025-11-27 15:56:43,359 - DEBUG - Connection closed after get_all.
+2025-11-27 15:56:43,359 - INFO - 7 employees returned
+2025-11-27 15:56:43,361 - INFO - 127.0.0.1 - - [27/Nov/2025 15:56:43] "GET /employees HTTP/1.1" 200 -
+2025-11-27 16:28:51,779 - INFO -  * Detected change in 'C:\\Users\\USER\\anaconda3\\cwp.py', reloading
+2025-11-27 16:28:52,848 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-27 16:28:53,626 - INFO - Flask application started
+2025-11-27 16:28:53,636 - INFO - Creating employee table if not exists...
+2025-11-27 16:28:53,636 - DEBUG - Connecting to PostgreSQL...
+2025-11-27 16:28:53,717 - DEBUG - Connection successful.
+2025-11-27 16:28:53,720 - INFO - Table created or already exists.
+2025-11-27 16:28:53,721 - DEBUG - Database connection closed after table creation.
+2025-11-27 16:28:53,745 - WARNING -  * Debugger is active!
+2025-11-27 16:28:53,753 - INFO -  * Debugger PIN: 654-024-026
+2025-11-27 16:28:53,820 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
